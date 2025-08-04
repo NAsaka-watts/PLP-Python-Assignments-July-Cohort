@@ -8,11 +8,11 @@ Whether you're adding up your lunch bill 🍔, dividing chores 🧹, or just mes
 
 ## 🔧 What It Does
 
-- ✅ Adds, subtracts, multiplies, and divides
-- ✅ Handles decimal numbers
-- ✅ Prevents division by zero (we're not crashing today!)
-- ✅ Rejects weird input (letters ≠ numbers)
-- ✅ Keeps calculating until you say "enough!"
+-  Adds, subtracts, multiplies, and divides
+-  Handles decimal numbers
+-  Prevents division by zero (we're not crashing today!)
+-  Rejects weird input (letters ≠ numbers)
+-  Keeps calculating until you say "enough!"
 
 ---
 
